@@ -1,0 +1,9 @@
+1)Hyper Text Transfer Protocol
+2)Uniform Resource Locator
+3)Domain Name System
+4)A string that allows to pass key-value pairs into the URL
+5)GET - get data, POST - send data
+6)Request from a client to a server
+7)Response from a server to a client 
+8)Header - additional information about the request or the response; Request: Cache-control, cookie; 
+Response:Cache-control, set-Cookie.
