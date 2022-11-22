@@ -28,7 +28,7 @@ function addGif(inp) {
     const d = await axios.get("http://api.giphy.com/v1/gifs/search", {
       params: {
         q: search,
-        api_key: "MhAodEJIJxQMxW9XqxKjyXfNYdLoOIym"
+        api_key: "abc"
       }
     });
     addGif(d.data);
